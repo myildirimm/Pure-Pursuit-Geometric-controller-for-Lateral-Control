@@ -92,7 +92,7 @@ def translate(x, y, angle, px, py):
 vehicle = Vehicle(100, size-100)
 ld = 150
 
-done = False
+done = False #Before while loop starts
 
 while not done:
 
